@@ -134,6 +134,21 @@ The following visualizations were created:
 These helped identify patterns related to churn.
 
 ---
+## 📷 Visualizations
+
+### Churn Distribution
+![Churn Distribution](Images/churn_distribution.png)
+
+### Feature Correlation with Churn
+![Feature Correlation](Images/feature_correlation.png)
+
+### Confusion Matrix
+![Confusion Matrix](Images/confusion_matrix.png)
+
+### ROC Curve
+![ROC Curve](Images/roc_curve.png)
+
+---
 
 # 🔄 Data Processing
 
